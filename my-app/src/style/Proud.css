@@ -1,0 +1,9 @@
+#proud-section{
+    padding: 120px 0;
+    background: url(../img/bg1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.p-counter{
+    padding: 0 40px;
+}

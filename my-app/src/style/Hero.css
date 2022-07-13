@@ -1,0 +1,39 @@
+#hero-section{
+    background:url(../img/bg1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero-content h1 {
+    font-size: 50px;
+    font-family: 'Oswald';
+    font-weight: 800;
+    text-transform: uppercase;
+    line-height: 65px;
+    letter-spacing: -2px;
+}
+
+.hero-content p {
+    font-size: 20px;
+    font-family: 'Oswald';
+    font-weight: 400;
+    color: #333;
+    padding-bottom: 20px;
+}
+
+.hero-content a {
+    text-decoration: none;
+    font-size: 16px;
+    font-family: 'Oswald';
+    font-weight: 400;
+    color: #fff;
+    background: #e7428d;
+    padding: 14px 40px;
+    border-radius: 5px;
+   
+}
+
+.hero-image img {
+    width: 100%;
+    object-fit: cover;
+}

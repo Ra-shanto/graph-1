@@ -1,0 +1,37 @@
+#navbar{
+    background-color: #fff;
+    padding: 20px 0;
+    
+}
+.nav-menu ul {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.nav-menu ul li {
+    display: inline;
+    padding: 10px;
+}
+
+.nav-menu ul li a{
+    padding: 0px 20px;
+    font-size: 17px;
+    font-family: oswald;
+    font-weight: 600;
+    color: black;
+}
+
+.nav-menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.nav-social-icon {
+    text-align: center;
+}
+.nav-social-icon a i {
+    padding: 0 15px;
+    color: #333;
+    font-size: 18px;}
+

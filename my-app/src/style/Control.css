@@ -1,0 +1,5 @@
+.control-img img{
+    width: 100%;
+    object-fit: cover;
+    padding: 0 65px;
+}

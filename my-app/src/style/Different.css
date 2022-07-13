@@ -1,0 +1,9 @@
+#different-section{
+    padding: 120px 0;
+}
+
+.different-img img{
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+}
